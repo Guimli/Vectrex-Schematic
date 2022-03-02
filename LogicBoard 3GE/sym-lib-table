@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Vectrex LogicBoard")(type "KiCad")(uri "${KIPRJMOD}/Vectrex LogicBoard.kicad_sym")(options "")(descr ""))
+)
