@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Vectrex")(type "KiCad")(uri "${KIPRJMOD}/Vectrex.kicad_sym")(options "")(descr ""))
+)
