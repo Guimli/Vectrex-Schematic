@@ -1,3 +1,5 @@
 
 *.zip
 *.kicad_pcb
+LogicBoard 3GE/LogicBoard 3GE.brd
+LogicBoard 3GE/LogicBoard 3GE_brd.sqlite3
