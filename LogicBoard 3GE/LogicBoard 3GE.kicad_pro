@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.8,
-          "height": 1.4,
-          "width": 1.6
+          "height": 1.2,
+          "width": 1.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -417,7 +417,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "./",
+    "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
