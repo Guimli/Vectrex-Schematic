@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name "Ram")(type "KiCad")(uri "C:/Users/Yuu/Documents/Ram Tester/Ram.kicad_sym")(options "")(descr ""))
-  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (version 7)
   (lib (name "Vectrex")(type "KiCad")(uri "${KIPRJMOD}/Vectrex.kicad_sym")(options "")(descr ""))
 )
